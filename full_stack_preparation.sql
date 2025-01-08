@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.38, for Win64 (x86_64)
 --
--- Host: my-database.c7u2kc6sgxm7.ca-central-1.rds.amazonaws.com    Database: my_schema
+-- Host: database-1.cf8ewmq2oh9t.ca-central-1.rds.amazonaws.com    Database: my_schema
 -- ------------------------------------------------------
 -- Server version	8.0.35
 
